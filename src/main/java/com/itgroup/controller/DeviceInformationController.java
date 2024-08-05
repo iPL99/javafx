@@ -42,7 +42,7 @@ public class DeviceInformationController implements Initializable {
     private Pagination pagination;
     @FXML
     private Label pagingStatus;
-    // 여기는 컨트롤러 파일입니다람쥐
+    // 영희가 푸시하려고 시도함
     // 오늘 점심은 시원한것으로 먹자
     // 철수가 먼저 푸시함
 

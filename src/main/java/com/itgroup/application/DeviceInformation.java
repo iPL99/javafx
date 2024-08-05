@@ -16,7 +16,7 @@ public class DeviceInformation extends Application {
 
             Parent container = fxmlLoader.load();
             Scene scene = new Scene(container);
-            stage.setTitle("스마트폰 정보");
+            stage.setTitle("스마트폰 정보관리 프로그램");
             stage.setScene(scene);
             stage.show();
         } catch (Exception e) {

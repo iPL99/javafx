@@ -44,6 +44,7 @@ public class DeviceInformationController implements Initializable {
     private Label pagingStatus;
     // 여기는 컨트롤러 파일입니다람쥐
     // 오늘 점심은 시원한것으로 먹자
+    // 철수가 먼저 푸시함
 
     @Override
     public void initialize(URL url, ResourceBundle resourceBundle) {

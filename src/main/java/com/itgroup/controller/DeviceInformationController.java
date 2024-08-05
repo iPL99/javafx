@@ -43,6 +43,7 @@ public class DeviceInformationController implements Initializable {
     @FXML
     private Label pagingStatus;
 // 여기는 컨트롤러 파일입니다람쥐
+    // 오늘 점심은 시원한것으로 먹자
 
     @Override
     public void initialize(URL url, ResourceBundle resourceBundle) {

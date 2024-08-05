@@ -42,7 +42,7 @@ public class DeviceInformationController implements Initializable {
     private Pagination pagination;
     @FXML
     private Label pagingStatus;
-// 여기는 컨트롤러 파일입니다.
+// 여기는 컨트롤러 파일입니다람쥐
 
     @Override
     public void initialize(URL url, ResourceBundle resourceBundle) {
